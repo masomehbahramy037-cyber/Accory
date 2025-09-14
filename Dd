@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فروشگاه اکسسوری</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>فروشگاه اکسسوری</h1>
+    <nav>
+      <a href="#">خانه</a>
+      <a href="#">محصولات</a>
+      <a href="#">درباره ما</a>
+      <a href="#">تماس با ما</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>اکسسوری‌های خاص خودت رو پیدا کن ✨</h2>
+    <p>جدیدترین مدل‌ها و بهترین قیمت‌ها</p>
+    <a href="#" class="btn">مشاهده محصولات</a>
+  </section>
+
+  <section class="products">
+    <h2>محصولات منتخب</h2>
+    <div class="product-list">
+      <div class="product">
+        <img src="https://via.placeholder.com/200" alt="محصول ۱">
+        <h3>گردنبند استیل</h3>
+        <p>قیمت: 250,000 تومان</p>
+        <button>افزودن به سبد</button>
+      </div>
+      <div class="product">
+        <img src="https://via.placeholder.com/200" alt="محصول ۲">
+        <h3>دستبند چرمی</h3>
+        <p>قیمت: 180,000 تومان</p>
+        <button>افزودن به سبد</button>
+      </div>
+      <div class="product">
+        <img src="https://via.placeholder.com/200" alt="محصول ۳">
+        <h3>انگشتر نقره</h3>
+        <p>قیمت: 320,000 تومان</p>
+        <button>افزودن به سبد</button>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 فروشگاه اکسسوری. تمام حقوق محفوظ است.</p>
+  </footer>
+</body>
+</html>
